@@ -1,0 +1,11 @@
+.content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.5rem;
+    border: thin solid black;
+    height: 20rem;
+    width: 20rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+}
